@@ -2,7 +2,7 @@
 
 Welcome to the **Riya AI Portfolio Website** — a personal portfolio showcasing my skills, projects, and professional journey. This site is designed to highlight my work, experience, and contact information in an interactive, user-friendly way.
 
-🔗 **Live Demo:** https://riya-ai-portfolio.preview.emergentagent.com/
+
 
 ---
 
